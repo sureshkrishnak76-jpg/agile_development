@@ -20,7 +20,7 @@ cough="yes"
 if fever=="yes" and cough=="yes":
     print("Possible Flu")
 elif fever=="yes":
-    print("Possible Viral Fever")
+    print("Possible Viral Fever 123456789")
 else:
     print("No major symptoms detected.")
 
